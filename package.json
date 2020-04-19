@@ -1,0 +1,14 @@
+{
+  "name": "8a71475084ce6c0c",
+  "main": "8a71475084ce6c0c@43.js",
+  "version": "43.0.0",
+  "homepage": "https://observablehq.com/d/8a71475084ce6c0c",
+  "author": {
+    "name": "Sarvani Chakrabarty",
+    "url": "https://observablehq.com/@sarvani29"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
